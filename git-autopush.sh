@@ -1,5 +1,4 @@
 #!/bin/sh
 git add .
 git commit -m "Automatic Commit `date +%F-%T`"
-git push origin master
-read
+git push -f origin master
