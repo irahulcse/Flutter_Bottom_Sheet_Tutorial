@@ -24,7 +24,7 @@ I am currently looking for Full Time/ Internship Offer for any Software Developm
 
 ### Screenshots and Working GIFS:
 
-<img src="assets/rovers.gif.mp4" height="300em"  width="250em"/> <img src="assets/1.jpg" height="300em" width="250em"/> <img src="assets/2.jpg" height="300em" width="250em"/>
+<img src="assets/rovers.gif" height="300em"  width="250em"/> <img src="assets/1.jpg" height="300em" width="250em"/> <img src="assets/2.jpg" height="300em" width="250em"/>
 
 
  Sorry for the quality of the GIF :pray:
